@@ -1,0 +1,1 @@
+I need a application that use NodeJS. It should be a API to insert, put, get and delete vehicles. Vehicles must have fields name (string), brand (string), year (integer) and id as uuid.
